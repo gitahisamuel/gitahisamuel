@@ -63,7 +63,7 @@ I'm a **Full-Stack Developer** and **IT Professional** passionate about building
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitahisamuel&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitahisamuel&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=gitahisamuel&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitahisamuel&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 
 </div>
