@@ -1,6 +1,6 @@
 <!-- Header with Title and Badges -->
 <div align="center">
-
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100" align="center">
 # Hello there 👋, I am Gitahi Samuel
 ### A Passionate Full-Stack Web Developer, IT Professional and Cyber Security Enthusiast from Nairobi, Kenya
 
