@@ -58,7 +58,7 @@ I'm a **Full-Stack Developer** and **IT Professional** passionate about building
 
 <div align="center">
 
-![Gitahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitahisamuel&show_icons=true&theme=radical&hide_border=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitahisamuel&layout=compact&theme=radical&hide_border=true)
 
