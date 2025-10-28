@@ -75,7 +75,7 @@ Here are some of the projects I'm most proud of:
 
 | [![Fur Ever](https://github-readme-stats.vercel.app/api/pin/?username=gitahisamuel&repo=Fur_Ever&theme=radical)](https://github.com/gitahisamuel/Fur_Ever) | [![Friday](https://github-readme-stats.vercel.app/api/pin/?username=gitahisamuel&repo=Friday&theme=radical)](https://github.com/gitahisamuel/Friday) |
 | :--- | :--- |
-| **Pet Adoption Platform** - Connecting furry friends with their forever homes through a modern web application. | **Outdoors** - Touch grass. |
+| **Pet Adoption Platform** - Connecting furry friends with their forever home. | **Outdoors** - Touch grass. |
 
 ---
 
