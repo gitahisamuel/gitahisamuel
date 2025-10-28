@@ -1,5 +1,8 @@
 <!-- Header with Title and Badges -->
-<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100" align="center">
+</div>
+
 <div align="center">
 
 # Hello there 👋, I am Gitahi Samuel
