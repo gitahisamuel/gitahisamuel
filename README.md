@@ -1,6 +1,6 @@
 <!-- Header with Title and Badges -->
 <div align="center">
-
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="100" align="center">
 # Hello there 👋, I am Gitahi Samuel
 ### A Passionate Full-Stack Web Developer, IT Professional and Cyber Security Enthusiast from Nairobi, Kenya
 
@@ -71,7 +71,7 @@ Here are some of the projects I'm most proud of:
 
 | [![Fur Ever](https://github-readme-stats.vercel.app/api/pin/?username=gitahisamuel&repo=Fur_Ever&theme=radical)](https://github.com/gitahisamuel/Fur_Ever) | [![Friday](https://github-readme-stats.vercel.app/api/pin/?username=gitahisamuel&repo=Friday&theme=radical)](https://github.com/gitahisamuel/Friday) |
 | :--- | :--- |
-| **Pet Adoption Platform** - Connecting furry friends with their forever homes through a modern web application. | **Productivity Assistant** - Helping you touch grass and maintain work-life balance with smart reminders. |
+| **Pet Adoption Platform** - Connecting furry friends with their forever homes through a modern web application. | **Outdoors** - Touch grass. |
 
 ---
 
