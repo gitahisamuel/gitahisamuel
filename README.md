@@ -9,7 +9,7 @@
 ### A Passionate Full-Stack Web Developer, IT Professional and Cyber Security Enthusiast from Nairobi, Kenya
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GitahiMurimi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 [![GitHub followers](https://img.shields.io/github/followers/gitahisamuel?logo=github&style=for-the-badge)](https://github.com/gitahisamuel)
 ![](https://visitor-badge.glitch.me/badge?page_id=gitahisamuel.gitahisamuel)
 
