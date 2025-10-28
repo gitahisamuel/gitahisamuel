@@ -82,8 +82,8 @@ Here are some of the projects I'm most proud of:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-📫 **How to reach me:** [gitahi.samuel@example.com](mailto:your-email@example.com)
-📱 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+📫 **How to reach me:** 
+📱 **Portfolio:**
 
 ⚡ **Fun Fact:** I can probably tell you what that weird network traffic pattern means! 
 
