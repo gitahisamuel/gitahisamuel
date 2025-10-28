@@ -22,7 +22,7 @@
 
 > "Turning coffee into code and ideas into impactful software"
 
-I'm a **Full-Stack Developer** and **IT Professional** passionate about building secure, scalable web applications. With a strong interest in cybersecurity, I focus on creating solutions that are not just functional but also robust and secure. When I'm not coding, you can find me exploring the latest in infosec, contributing to open source, or enjoying the Nairobi tech scene.
+I'm a **Full-Stack Developer** and **IT Professional** passionate about building secure, scalable web applications. With a strong interest in cybersecurity, I focus on creating solutions that are not just functional but also robust and secure. When I'm not coding, you can find me exploring the latest in infosec, contributing to open source, or in the Gym.
 
 ---
 
