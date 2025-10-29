@@ -64,9 +64,6 @@ I'm a **Full-Stack Developer** and **IT Professional** passionate about building
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitahisamuel&theme=radical&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=gitahisamuel&theme=radical)
-
-
 </div>
 
 ---
