@@ -91,6 +91,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ⚡ **Fun Fact:** I can probably tell you what that weird network traffic pattern means! 
 
-*"Code with purpose, secure with passion"*
+*"“Real bug in the machine 🐛 → 1947”"*
 
 </div>
