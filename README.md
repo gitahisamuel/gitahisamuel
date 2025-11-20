@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hello there 👋, I am Gitahi Samuel
+# Hello there 👋, I am Gitahi Samuel MUR
 ### A Passionate Full-Stack Web Developer, IT Professional and Cyber Security Enthusiast from Nairobi, Kenya
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GitahiMurimi)
@@ -57,12 +57,9 @@ I'm a **Full-Stack Developer** and **IT Professional** passionate about building
 
 <div align="center">
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitahisamuel&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitahisamuel&theme=radical&date_format=j%20M%5B%20Y%5D)
-
 
 </div>
 
