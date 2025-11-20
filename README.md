@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hello there 👋, I am Gitahi Samuel MUR
+# Hello there 👋, I am Gitahi Samuel 
 ### A Passionate Full-Stack Web Developer, IT Professional and Cyber Security Enthusiast from Nairobi, Kenya
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GitahiMurimi)
