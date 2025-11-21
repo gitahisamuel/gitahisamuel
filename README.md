@@ -88,6 +88,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ⚡ **Fun Fact:** I can probably tell you what that weird network traffic pattern means! 
 
-*Real bug in the machine 🐛 → 1947*
+* A Real bug in the machine 🐛 → 1947*
 
 </div>
